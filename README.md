@@ -16,6 +16,6 @@ Gold(Gold) is a modern cryptocurrency built from scratch, designed to be efficie
 ## Installing
 
 Please visit our wiki for more information:
-[wiki](https://github.com/goldcoin-gl/gold-blockchain/wiki).
+[wiki](https://github.com/goldcoin-gl/gold-light-wallet/wiki).
 
 
