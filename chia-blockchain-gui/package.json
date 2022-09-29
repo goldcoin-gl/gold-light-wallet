@@ -1,5 +1,5 @@
 {
-    "name": "root",
+    "name": "gold",
     "private": true,
     "scripts": {
         "clean": "lerna clean",
